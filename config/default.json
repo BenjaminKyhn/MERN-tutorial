@@ -1,4 +1,5 @@
 {
   "mongoURI": "mongodb+srv://ben123:ben123@cluster0.kvihu.mongodb.net/?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubToken": "e9b6fe7f86980bf9aee0f0cd8746f18fa726fb08"
 }
