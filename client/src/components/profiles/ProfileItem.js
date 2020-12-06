@@ -1,8 +1,6 @@
 import React, {Fragment, useEffect} from 'react'
 import PropTypes from 'prop-types';
 import {Link} from 'react-router-dom';
-import Spinner from "../layout/Spinner";
-import {getProfiles} from '../../actions/profile';
 
 const ProfileItem = ({
                          profile: {
